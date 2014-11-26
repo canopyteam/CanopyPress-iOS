@@ -1,4 +1,4 @@
-CanopyPressKit
+Canopy Assets for iOS
 ==============
 
-Press resources for Canopy.co
+Please direct questions about usage to press@canopy.co
