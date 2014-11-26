@@ -1,12 +1,12 @@
 Canopy Assets for iOS
 ==============
 
-Assets are provided in two formats:
+#### Assets are provided in two formats:
 
 1. Transparent png
 2. JPEG (90% quality)
 
-And two sizes:
+#### And two sizes:
 
 1. 470 x 900
 2. 940 x 1800
